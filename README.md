@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubajz292" alt="kubajz292" /></a> </p>
 
-- 🔭 I’m currently working on [Space Invaders Multiplayer](https://github.com/Kubajz292/Space-Invaders-Multiplayer.git)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Python**
 
