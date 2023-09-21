@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**,**C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kubajz292](https://github.com/Kubajz292)
 
